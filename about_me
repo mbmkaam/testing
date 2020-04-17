@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test</title>
+</head>
+<style>
+body {
+  background-image: url('background1.jpg');
+}
+</style>
+
+<p>Assalmoalikom</p>
+<p>this is test file</p>
+<picture>C:\Users\Mohami Ismail\Pictures\img003.jpg</picture>
+<h2>HTML Image</h2>
+<img src="img003.jpg" alt="Trulli" width="300" height="400">
+</body>
+</html>
